@@ -1,5 +1,5 @@
 # Blízko desať
-Napíšte program, ktorý vráti true ak zadané, nezáporné číslo, je najviac o 2 vzdialené od násobkou čísla 10.
+Napíšte program, ktorý vráti **true** ak zadané, nezáporné číslo, je najviac o 2 vzdialené od násobkou čísla 10.
 
 + blizko10(12) → true
 + blizko10(17) → false
